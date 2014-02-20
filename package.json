@@ -1,0 +1,12 @@
+{
+  "name": "pazguille-euclidean",
+  "description": "Calculates the distance between two points.",
+  "version": "0.0.1",
+  "keywords": [
+    "distance",
+    "points",
+    "coordinates"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
